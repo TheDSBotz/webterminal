@@ -1,4 +1,4 @@
-pyproject.toml-based
+pyproject.toml
 django==3.1.7
 channels
 redis
