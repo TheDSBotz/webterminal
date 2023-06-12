@@ -12,7 +12,6 @@ django-otp
 #MySQL-python==1.2.5
 django-cors-headers
 djangorestframework-simplejwt
-pycrypto
 python-magic
 cryptography
 qrcode
